@@ -8,5 +8,6 @@ Ejercicio útil para la práctica de creación de objetos, manejo de clases y ut
 El algoritmo de lectura de datos lee del fichero las lineas y si hay algun nombre de mascota repetido en cada linea significa que esa mascota tiene más de un tratamiento asignado. Si los datos están repetidos no los carga en el programa. El programa puede guardar los datos introducidos con la opcion "guardar y salir" o puede descartar los cambios terminando directamente la ejecución.
 
 El código puede ser un poco messy... contar con que es una de mis primeras prácticas, pero la primera que me hizo sentirme orgulloso <3
-
-<img src="https://github.com/slimm1/Veterinary/blob/main/menu.png?raw=true">
+<p style="text-align: center">
+  <img src="https://github.com/slimm1/Veterinary/blob/main/menu.png?raw=true">
+</p>
