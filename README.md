@@ -1,4 +1,8 @@
 # Veterinary
+<p style="align:center">
+<img src="https://github.com/slimm1/Veterinary/blob/main/menu.png?raw=true" width="400px">
+</p>
+
 Otra pequeña práctica con clases, listas y lectura/escritura de datos en ficheros. La consola de java despliega un menú por el que se puede navegar para realizar diferentes acciones. 
 
 El programa simula la base de datos de un veterinario, en el cual se pueden realizar diferentes operaciones como dar de alta una mascota paciente (creacion de objeto, añadirlo a un array de objetos), dar de baja a una mascota paciente, añadir un tratamiento a un paciente específico (hay una serie de tratamientos prestablecidos), mostrar una lista con las mascotas que tienen tratamientos en común o generar un fichero de texto embellecido con toString con los datos extraídos del fichero original.
@@ -9,6 +13,3 @@ El algoritmo de lectura de datos lee del fichero las lineas y si hay algun nombr
 
 El código puede ser un poco messy... contar con que es una de mis primeras prácticas, pero la primera que me hizo sentirme orgulloso <3
 
-<p style="align:center">
-<img src="https://github.com/slimm1/Veterinary/blob/main/menu.png?raw=true" width="400px">
-</p>
