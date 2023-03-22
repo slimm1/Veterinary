@@ -9,6 +9,6 @@ El algoritmo de lectura de datos lee del fichero las lineas y si hay algun nombr
 
 El código puede ser un poco messy... contar con que es una de mis primeras prácticas, pero la primera que me hizo sentirme orgulloso <3
 
-<div style="margin:auto;">
+<p style="align:center">
   <img src="https://github.com/slimm1/Veterinary/blob/main/menu.png?raw=true">
-</div>
+</p>
