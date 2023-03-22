@@ -1,0 +1,32 @@
+ID: 1 nombre: Kobe
+
+1 Tratamiento ---> Vacunación con fecha 2023-01-22 15:20
+2 Tratamiento ---> Castración con fecha 2022-12-23 12:30
+
+ID: 2 nombre: Weasley
+
+1 Tratamiento ---> Vacunación con fecha 2023-01-21 13:30
+2 Tratamiento ---> Inyección Letal con fecha 2022-01-08 13:32
+
+ID: 3 nombre: Manuel
+
+1 Tratamiento ---> Vacunación con fecha 2022-10-25 12:30
+
+ID: 4 nombre: Guille
+
+1 Tratamiento ---> Vacunación con fecha 2023-01-26 23:34
+2 Tratamiento ---> Castración con fecha 2023-01-27 10:00
+
+ID: 5 nombre: Martin
+
+1 Tratamiento ---> Vacunación con fecha 2022-12-21 12:12
+2 Tratamiento ---> Colonoscopia con fecha 2022-12-25 12:05
+
+ID: 6 nombre: Sergio
+
+1 Tratamiento ---> Vacunación con fecha 2022-04-12 14:32
+
+ID: 7 nombre: Neo
+
+1 Tratamiento ---> Vacunación con fecha 2022-04-12 14:32
+
