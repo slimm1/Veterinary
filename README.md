@@ -13,5 +13,5 @@ El algoritmo de lectura de datos lee del fichero las lineas y si hay algun nombr
 
 El código puede ser un poco messy... contar con que es una de mis primeras prácticas, pero la primera que me hizo sentirme orgulloso <3
 
-   # PARA QUE EL ARCHIVO DE LECTURA FUNCIONE ES NECESARIO CAMBIAR LA RUTA DE LECTURA EN EL MÉTODO DE CARGA DE DATOS
+    PARA QUE EL ARCHIVO DE LECTURA FUNCIONE ES NECESARIO CAMBIAR LA RUTA DE LECTURA EN EL MÉTODO DE CARGA DE DATOS
 
